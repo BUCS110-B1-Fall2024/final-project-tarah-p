@@ -1,7 +1,7 @@
 
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 
-# Tarah's Project
+# A Number Guessing Game
 ## CS110 B1 Final Project  Fall, 2024
 
 ## Team Members
@@ -12,7 +12,11 @@ Tarah Parmar
 
 ## Project Description
 
-<< Give an overview of your project >>
+This program will be a number guessing game with a graphical user interface (GUI) built using Pygame.  The core game logic will follow the Model-View-Controller (MVC) design pattern.
+
+Model: A class will manage the randomly generated secret number and track the number of guesses.
+View: The Pygame GUI will display the game's current state: the range of numbers, the number of guesses remaining, and feedback (e.g., "Too high!" or "Too low!").
+Controller: A class will handle user input (guess entry), update the model accordingly, and refresh the view to reflect the updated game state.
 
 ***    
 
