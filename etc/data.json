@@ -1,0 +1,9 @@
+{
+    "player_name": "EcoHero",
+    "total_points": 0,
+    "tasks_completed": [],
+    "city_status": {
+        "green_level": 0,
+        "upgrades": []
+    }
+}

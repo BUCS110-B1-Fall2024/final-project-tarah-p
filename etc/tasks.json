@@ -1,0 +1,22 @@
+[
+    {
+        "description": "Sort recyclables into the correct bins",
+        "points": 10
+    },
+    {
+        "description": "Plant a tree in the park",
+        "points": 20
+    },
+    {
+        "description": "Conserve energy by turning off unused lights",
+        "points": 15
+    },
+    {
+        "description": "Pick up litter in your neighborhood",
+        "points": 10
+    },
+    {
+        "description": "Educate a friend about recycling",
+        "points": 25
+    }
+]
